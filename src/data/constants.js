@@ -248,7 +248,7 @@ export const projects = [
     image: "https://source.unsplash.com/random/?education",
     tags: ["React Js", "Bootstrap", "CSS"],
     category: "web app",
-    github: "https://github.com/adarshahelvar/AchiversIT-clone-",
+    github: "https://github.com/adarshahelvar/AchiversIT-clone-Bootstrap5",
     webapp: "https://achiversit-clone-adsraha.vercel.app/",
     // Add member if multiple people worked on same project
     // member: [
